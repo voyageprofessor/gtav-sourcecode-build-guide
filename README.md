@@ -9,7 +9,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 ### Base
  - Minimum 150GB Free Space
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
-    - Cracked Game files is not recommended because maybe some problems occur. 
+    - Cracked Game files is not recommended because maybe some problems can happen. 
  - GTAVSP.7z<br>
     - **Want to have the source code? [See Here](/misc/gtavsourcecodelinks.txt) for the links and magnet.**<br>
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
