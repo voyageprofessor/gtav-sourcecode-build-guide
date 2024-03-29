@@ -33,9 +33,8 @@ Github edition with fixed links and added some files and features!<br>Based on t
 ### Miscellaneous
  - [Rush Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641602/rush_patches-master.zip)
  - [DLL Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641382/dll_patches.zip)
- - (OPTIONAL) [3rdParty Folder](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14733468/3rd.zip)
+ - (OPTIONAL) [3rdParty Folder](https://cdn.discordapp.com/attachments/1191001559794995220/1218742498948550666/3rdParty.7z?ex=6611ffe6&is=65ff8ae6&hm=0324e5011bcd288924df7e1edeada857a7ca201029c08ded7acd1ab418e941a3&)
     - Extract and Put the folder to `X:\gta5\`
-    - Rename "LitJSON.csproj" to "LitJson.csproj"
  - (OPTIONAL) [Fixed ShortcutMenu](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14735751/fixedshortcut.zip)
     - Extract and put the folder to `X:\gta5\tools_ng\bin\`
  - (OPTIONAL) [3D Studio Max 2010 SDK](https://archive.org/details/sdk-3ds-max-2010)
