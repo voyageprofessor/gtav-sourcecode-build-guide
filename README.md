@@ -171,7 +171,7 @@ rag
 4. (OPTIONAL) If your game is from Steam, Copy [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/jobs/4247811310/artifacts/download) patch into game directory, make sure to overwrite
 5. Run `launch.bat`
 
-## BankRelease/Debug Build Controls
+## BankRelease & Debug Build Controls
 
 ```
 Legend:
@@ -264,10 +264,6 @@ SHIFT + T ---> Change trigger zone.
 SHIFT + U ---> Spawns a vehicle and makes your driver auto.
 
 Ctrl + Alt + I ---> Toggle weapon/inputs information.
-
-Normally there was a full list that contains all the debug controls but that file get lost so this is the partial list.
-If you can find it, please let me know.
-I will try to put here all the list when i found it.
 ```
 
 # Epilogue
