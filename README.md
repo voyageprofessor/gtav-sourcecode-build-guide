@@ -61,11 +61,11 @@ Github edition with fixed links and added some files and features!<br>Based on t
    - Select to install "Incredibuild Agent", "Incredibuild Coordinator", and the extension for Visual Studio
 5. Install OpenIV
 6. Install Miscellaneous Files
-8. Create X:\ drive by following these steps at the bottom
+8. Create X:\ Drive by following the steps at the bottom
    1. Open Command Prompt
-   2. Create a new folder called "GTA" to the Desktop 
+   2. Create a new folder called "GTA" to the Desktop or anywhere that you want.
    3. Run `net use X: \\localhost\c$\<Path to working folder for build> /persistent:yes`
-       - Example: `net use X: \\localhost\c$\Users\abcd\Desktop\GTA /persistent:yes`
+       - Example: `net use X: \\localhost\c$\Users\abcd\Desktop\GTA /persistent:yes` 
 9. Create the folder `X:\gta5` and copy all folders from `GTAVSP.7z\GTA V Source` into it
    - By the end, you should have the folders `X:\gta5\src`, `X:\gta5\script`, and `X:\gta5\tools_ng`. If the paths are different or some folders are missing, try re-extracting or moving as needed.
 10. Right click the folder `X:\gta5`, select "Properties", uncheck "Read-only", click Apply then OK
@@ -132,7 +132,7 @@ ragScriptEditor
 2. Select the game folder and click "Continue"
 3. Open `GTA V\update\update2.rpf\x64\levels\gta5\script`
 4. Click the "Edit mode" button, and copy `X:\gta5\titleupdate\dev_ng\x64\levels\gta5\script\script.rpf` to the OpenIV window
-5. [IMPORTANT] Fix Story Mode
+5. (OPTIONAL) Fix Story Mode
 	1. Open `GTA V\update\update.rpf\common\data` and make sure "Edit Mode" is enabled
 	2. Under "XML Text Files", right-click `gameconfig.xml` and click "Edit"
 	3. Under "Search", type "51000"
@@ -172,6 +172,10 @@ rag
 5. Run `launch.bat`
 
 ## BankRelease & Debug Build Controls
+
+> [!WARNING]
+> This is a partial list because the full list was lost and cannot be found.
+> But already this list contains the most useful keys.
 
 ```
 Legend:
