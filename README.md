@@ -159,7 +159,7 @@ game_win64_bankrelease.exe -noSocialClub -nokeyboardhook -nonetlogs
  - `-sc_DisableForbiddenVehicleRemoval` - This parameter allows DLC and Other Cars without getting removed.
     - If you using RAG, go to "Vehicles" tab and create widgets, after that Click "Creation Options" and turn on "Create as personal vehicle" to prevent game crashes. 
  - Additional standard game arguments can be added as well.
-    -  [Here is the all the arguments list](/LAUNCHPARAMS_GTAV.txt) 
+    -  [Here is the all the arguments list](misc/LAUNCHPARAMS_GTAV.txt) 
 3. (OPTIONAL) Launch RAG with the following commands in Command Prompt
 ```batch
 X:
