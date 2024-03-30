@@ -237,6 +237,7 @@ Ctrl + N ---> Show player/vehicle tags.
 Ctrl + P ---> Toggle information about promps and show character's hitbox.
 Ctrl + T ---> Clear Mission trigger
 Ctrl + U ---> Spawns or teleports a vehicle. #PARTIALLYKNOWN
+Ctrl + W ---> Unlimited Ammo.
 RCTRL + Right/Left arrow key ---> Increase/Decrease timescale.
 
 Ctrl + Shift + C ---> Prop hitboxes.
