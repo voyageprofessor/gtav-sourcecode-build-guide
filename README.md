@@ -265,7 +265,7 @@ SHIFT + U ---> Spawns a vehicle and makes your driver auto.
 
 Ctrl + Alt + I ---> Toggle weapon/inputs information.
 
-Normally there was a full list that contains all the debug controls but that file lost so this is the partial list.
+Normally there was a full list that contains all the debug controls but that file get lost so this is the partial list.
 If you can find it, please let me know.
 I will try to put here all the list when i found it.
 ```
