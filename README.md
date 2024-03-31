@@ -173,9 +173,7 @@ rag
 
 ## BankRelease & Debug Build Controls
 
-> [!WARNING]
-> This is a partial list because the full list was lost and cannot be found.
-> But already this list contains the most useful keys.
+[Full list dumped from game files](/misc/Keyboard_Overview.pdf)
 
 ```
 Legend:
