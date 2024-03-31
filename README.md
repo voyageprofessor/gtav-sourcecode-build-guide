@@ -175,6 +175,7 @@ rag
 
 [Full list dumped from game files](/misc/Keyboard_Overview.pdf)
 
+**Here is the partial list:**
 ```
 Legend:
 LCTRL -- Left control.
