@@ -11,7 +11,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
     - Cracked Game files is not recommended because maybe some problems can happen. 
  - GTAVSP.7z<br>
-    - **Download Link: https://cyberfile.me/7bu8**
+    - **Download Link: [Heres all the available download links](/misc/links.md)**
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
       - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`<br>
       - Archive password: `Mi76#b>9mRed`
@@ -157,7 +157,6 @@ game_win64_bankrelease.exe -noSocialClub -nokeyboardhook -nonetlogs
  - `-DoReleaseStartup` - Start real Story Mode on launch, Ignore if it says unknown parameter/command.
     - If you dont type this parameter, you will spawned in a random location as a random character with a random clothes. 
  - `-sc_DisableForbiddenVehicleRemoval` - This parameter allows DLC and Other Cars without getting removed.
-    - If you using RAG, go to "Vehicles" tab and create widgets, after that Click "Creation Options" and turn on "Create as personal vehicle" to prevent game crashes. 
  - Additional standard game arguments can be added as well.
     -  [Here is the all the arguments list](misc/LAUNCHPARAMS_GTAV.txt) 
 3. (OPTIONAL) Launch RAG with the following commands in Command Prompt
@@ -272,5 +271,5 @@ Ctrl + Alt + I ---> Toggle weapon/inputs information.
 
 # Epilogue
 
-Here is the end of the guide, I hope this tutorial was able to help you :)<br>
-Just enjoy the game and please star or fork my repository please :3<br>
+Here is the end of the guide, I hope this tutorial was able to help you.<br>
+Just enjoy the game and please star or fork my repository please :)<br>
