@@ -11,7 +11,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
     - Cracked Game files is not recommended because maybe some problems can happen. 
  - GTAVSP.7z<br>
-    - **Download Link: [Here is all the Available Download Links](/misc/links.md)**
+    - **Download Link: [All Available Download Links](/misc/links.md)**
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
       - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`<br>
       - Archive password: `Mi76#b>9mRed`
