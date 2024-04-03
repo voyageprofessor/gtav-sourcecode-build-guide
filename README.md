@@ -11,7 +11,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
     - Cracked Game files is not recommended because maybe some problems can happen. 
  - GTAVSP.7z<br>
-    - **Download Link: [All Available Download Links](/misc/links.md)**
+    - **Download Link: [All Available Download Links](https://pastebin.com/rnZp9VWD)**
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
       - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`<br>
       - Archive password: `Mi76#b>9mRed`
@@ -31,8 +31,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
     - For editing the game files.
 
 ### Miscellaneous
- - [Rush Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641602/rush_patches-master.zip)
- - [DLL Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641382/dll_patches.zip)
+ - [Rush Patches and DLL Patches](https://pastebin.com/rnZp9VWD)
  - (OPTIONAL) [3rdParty Folder](https://cdn.discordapp.com/attachments/1191001559794995220/1218742498948550666/3rdParty.7z?ex=6611ffe6&is=65ff8ae6&hm=0324e5011bcd288924df7e1edeada857a7ca201029c08ded7acd1ab418e941a3&)
     - Extract and Put the folder to `X:\gta5\`
  - (OPTIONAL) [Fixed ShortcutMenu](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14735751/fixedshortcut.zip)
