@@ -15,7 +15,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
       - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`<br>
       - Archive password: `Mi76#b>9mRed`
- - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/folder/O1UFlaAB#mqhLDQT7p77sMUnANJDjmA/file/Ph9FlQSK) 
+ - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/3j5yAYzR#guzO1Yw80efLfmHIPdY8gcPFAHJn7ncF1voadjdpaLE)
 
 ### Dependencies
  - Windows 10/11
