@@ -5,6 +5,11 @@ Github edition with fixed links and added some files and features!<br>Based on t
 
 **Working Status:** [See here for the status of tools and the game](/workingstatus.md)
 
+> [!NOTE]
+> Don't ask me for any help, do it yourself.<br>
+> Already This tutorial covers everything.
+
+
 ## Requirements
 ### Base
  - Minimum 150GB Free Space
@@ -45,7 +50,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 
 > [!NOTE]
 >	It is recommended to create a virtual machine for this build process,<br>although the build process can be done on your Real PC.<br>
->       VMWare/Hyper-V are recommended to run the VM due to their performance.
+> VMWare/Hyper-V are recommended to run the VM due to their performance.
 
 ## Prerequisite Setup
 1. Install DirectX SDK June 2010 and 7-Zip
