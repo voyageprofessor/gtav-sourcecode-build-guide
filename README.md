@@ -7,7 +7,6 @@ Github edition with fixed links and added some files and features!<br>Based on t
 
 > [!NOTE]
 > Don't ask me for any help, do it yourself.<br>
->I'm sorry but i can't help you..<br>
 > This tutorial covers everything already.
 
 
