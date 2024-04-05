@@ -3,11 +3,11 @@
 
 Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.<br>
 
-**Working Status:** [See here for the status of tools and the game](/workingstatus.md)
+**Working Status:** [See here for the status of tools, game and known bugs](/workingstatus.md)
 
 > [!NOTE]
 > Don't ask me for any help, do it yourself.<br>
-> I will not provide any help to anybody.<br>
+> I will not provide any help to anybody ever again.<br>
 > This tutorial covers everything already, Just follow all the steps.
 
 
@@ -15,7 +15,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 ### Base
  - Minimum 150GB Free Space
  - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
-    - Cracked Game files is not recommended because maybe some problems can happen. 
+    - Cracked Game files is not recommended because maybe some problems can happen.
  - GTAVSP.7z<br>
     - **Download Link: [All Available Download Links](https://pastebin.com/rnZp9VWD)**
       - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
