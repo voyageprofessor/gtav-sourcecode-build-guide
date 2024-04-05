@@ -42,4 +42,4 @@ To do this, Follow this steps:
 4. Save the file and Done!
 
 **E:** Couldn't connect to RAG.exe. Keep trying?<br>
-**F:** Just Simply Open the RAG
+**F:** Just Simply Open the RAG Manually, then start **launch.bat**
