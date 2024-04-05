@@ -8,7 +8,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 > [!NOTE]
 > Don't ask me for any help, do it yourself.<br>
 > I will not provide any help to anybody.<br>
-> This tutorial covers everything already.
+> This tutorial covers everything already, Just follow all the steps.
 
 
 ## Requirements
@@ -137,7 +137,7 @@ ragScriptEditor
 2. Select the game folder and click "Continue"
 3. Open `GTA V\update\update2.rpf\x64\levels\gta5\script`
 4. Click the "Edit mode" button, and copy `X:\gta5\titleupdate\dev_ng\x64\levels\gta5\script\script.rpf` to the OpenIV window
-5. (OPTIONAL) Fix Story Mode
+5. Fix Story Mode by following the steps at the bottom
 	1. Open `GTA V\update\update.rpf\common\data` and make sure "Edit Mode" is enabled
 	2. Under "XML Text Files", right-click `gameconfig.xml` and click "Edit"
 	3. Under "Search", type "51000"
