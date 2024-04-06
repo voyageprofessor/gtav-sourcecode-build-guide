@@ -169,7 +169,7 @@ rag
 ```
 4. Run `launch.bat`
 
-## BankRelease & Debug Build Controls
+## BankRelease & Debug Controls
 
 [Full list dumped from game files](/misc/Keyboard_Overview.pdf)
 
