@@ -5,12 +5,6 @@ Github edition with fixed links and added some files and features!<br>Based on t
 
 **Working Status:** [See here for the status of tools, game and known bugs](/workingstatus.md)
 
-> [!NOTE]
-> Don't ask me for any help, do it yourself.<br>
-> I will not provide any help to anybody ever again.<br>
-> This tutorial covers everything already, Just follow all the steps.
-
-
 ## Requirements
 ### Base
  - Minimum 150GB Free Space
@@ -173,8 +167,7 @@ setenv
 cd ..\..\tools_ng\bin\rag
 rag
 ```
-4. (OPTIONAL) If your game is from Steam, Copy [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/jobs/4247811310/artifacts/download) patch into game directory, make sure to overwrite.
-5. Run `launch.bat`
+4. Run `launch.bat`
 
 ## BankRelease & Debug Build Controls
 
