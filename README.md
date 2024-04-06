@@ -43,8 +43,7 @@
  - [Scripts](https://drive.google.com/file/d/1AVMC_MBPpqKp0BIrOI-_lLq98QmwRn46/view)
 
 > [!NOTE]
->	It is recommended to create a virtual machine for this build process,<br>although the build process can be done on your Real PC.<br>
-> VMWare/Hyper-V are recommended to run the VM due to their performance.
+> It is recommended to create a virtual machine for this build process, Although the build process can be done on your Real PC. VMWare/Hyper-V are recommended to run the VM due to their performance.
 
 ## Prerequisite Setup
 1. Install DirectX SDK June 2010 and 7-Zip
