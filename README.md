@@ -1,9 +1,7 @@
 ![Icon](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/assets/146978592/39674bde-9c2e-4800-99e5-7fc3a05a08f4)
-# ⭐ GTA V Modified Source Code Build Tutorial / Guide
-
-Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.
+# 📜 GTA V Source Code Build Guide
  
-**Working Status:** [See Here](/workingstatus.md)<br>
+**Working Status of Tools and Game:** [See Here](/workingstatus.md)<br>
 **Known Bugs and Errors:** [See Here](/knownbugs.md)
 
 ## Requirements
@@ -267,8 +265,3 @@ SHIFT + U ---> Spawns a vehicle and makes your driver auto.
 
 Ctrl + Alt + I ---> Toggle weapon/inputs information.
 ```
-
-# Epilogue
-
-Here is the end of the guide, I hope this tutorial was able to help you.<br>
-Just enjoy the game and please star or fork my repository please :)<br>
