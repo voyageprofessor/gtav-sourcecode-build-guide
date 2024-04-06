@@ -1,7 +1,5 @@
 # Working Status
 
-Here is the list that will compile and work sucessfully
-
 - [x] Can Compile Game
 - [x] Can Compile Tools
 - [x] Can Compile Game Scripts
