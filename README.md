@@ -14,7 +14,7 @@ Github edition with fixed links and added some files and features!<br>Based on t
 ## Requirements
 ### Base
  - Minimum 150GB Free Space
- - GTA V Files from Steam, Epic Games or Social Club (Minimum v2699)
+ - GTA V Files from Steam, Epic Games or Rockstar Games Launcher (Minimum v2699)
     - Cracked Game files is not recommended because maybe some problems can happen.
  - GTAVSP.7z<br>
     - **Download Link: [All Available Download Links](/misc/links.md)**
