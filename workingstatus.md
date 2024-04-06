@@ -9,7 +9,6 @@
 - [x] Game
 - [x] Tools
   - [x] Rage Script Editor
-    - It's working for me but somehow your virtual machine needs to be **Single Core** for script editor to work.   
   - [x] Rag UI and Interface
   - [x] Map Viewer
   - [x] ShortcutMenu 
