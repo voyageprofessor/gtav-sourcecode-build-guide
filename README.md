@@ -1,7 +1,5 @@
 ![Icon](/misc/icon.png)
 # 📜 GTA V Source Code Build Guide
-
-Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.
  
 🖥️ **Working Status of Tools and Game:** [See Here](/workingstatus.md)<br>
 🔨 **Known Bugs and Errors:** [See Here](/knownbugs.md)
