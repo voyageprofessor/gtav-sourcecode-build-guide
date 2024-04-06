@@ -1,4 +1,4 @@
-![Icon](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/assets/146978592/39674bde-9c2e-4800-99e5-7fc3a05a08f4)
+![Icon](/misc/icon.png)
 # 📜 GTA V Source Code Build Guide
  
 **Working Status of Tools and Game:** [See Here](/workingstatus.md)<br>
