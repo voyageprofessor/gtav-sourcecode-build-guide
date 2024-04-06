@@ -3,7 +3,8 @@
 
 Github edition with fixed links and added some files and features!<br>Based on this [rentry.co](https://www.rentry.co/gtavbuildguide) tutorial, But this tutorial is better than that.<br>
 
-**Working Status:** [See here for the status of tools, game and known bugs](/workingstatus.md)
+**Working Status:** [See here for the status of tools and game](/workingstatus.md)
+**Known Bugs and Errors:** [See here](/knownbugs.md)
 
 ## Requirements
 ### Base
