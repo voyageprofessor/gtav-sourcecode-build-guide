@@ -6,10 +6,10 @@
 **F:** Before Opening The Save Game, just enter the game normally and dont load the save, create vehicle widgets then load the game.
 
 **E:** Fatal Error:  Unable to create default effect 'common:/shaders/im', cannot continue.<br>
-**F:** If u didnt compiled and put the low shaders, then this error may appear.
+**F:** If u didnt put the shaders to the game directory or you dont have the low quality shaders, then this error may appear.
 
 #### Solution 1: 
-Just Compile the low quality shaders by following tutorial.
+Just Simply Put the shaders to the game directory and compile the low quality shaders if this error still appears by following tutorial.
 
 #### Solution 2:
 Just make your shaders quality "High" and dont lower that.<br>
