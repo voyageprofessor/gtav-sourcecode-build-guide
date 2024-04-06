@@ -173,7 +173,7 @@ setenv
 cd ..\..\tools_ng\bin\rag
 rag
 ```
-4. (OPTIONAL) If your game is from Steam, Copy [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/jobs/4247811310/artifacts/download) patch into game directory, make sure to overwrite
+4. (OPTIONAL) If your game is from Steam, Copy [Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/jobs/4247811310/artifacts/download) patch into game directory, make sure to overwrite.
 5. Run `launch.bat`
 
 ## BankRelease & Debug Build Controls
