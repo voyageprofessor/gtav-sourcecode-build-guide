@@ -130,11 +130,11 @@ ragScriptEditor
 3. Open `GTA V\update\update2.rpf\x64\levels\gta5\script`
 4. Click the "Edit mode" button, and copy `X:\gta5\titleupdate\dev_ng\x64\levels\gta5\script\script.rpf` to the OpenIV window
 5. Fix Story Mode by following the steps at the bottom
-	1. Open `GTA V\update\update.rpf\common\data` and make sure "Edit Mode" is enabled
-	2. Under "XML Text Files", right-click `gameconfig.xml` and click "Edit"
-	3. Under "Search", type "51000"
-	4. Change the value of `51000` to `53000`
-	5. Click "Save"
+   1. Open `GTA V\update\update.rpf\common\data` and make sure "Edit Mode" is enabled
+   2. Under "XML Text Files", right-click `gameconfig.xml` and click "Edit"
+   3. Under "Search", type "51000"
+   4. Change the value of `51000` to `53000`
+   5. Click "Save"
 6. Close OpenIV
 7. From `rush_patches-master.zip`, copy all files in the `ARCHIVEFIX` folder to a separate location
 8. Open `<GAME FOLDER>\update`, and drag `update.rpf` and `update2.rpf` onto `ArchiveFix.exe`
@@ -155,7 +155,7 @@ game_win64_bankrelease.exe -noSocialClub -nokeyboardhook -nonetlogs
     - If you dont type this parameter, you will spawned in a random location as a random character with a random clothes. 
  - `-sc_DisableForbiddenVehicleRemoval` - This parameter allows DLC and Other Cars without getting removed.
  - Additional standard game arguments can be added as well.
-    -  [Here is the all the arguments list](misc/LAUNCHPARAMS_GTAV.txt) 
+ - [Here is all the arguments list](misc/LAUNCHPARAMS_GTAV.txt) 
 3. (OPTIONAL) Launch RAG with the following commands in Command Prompt
 ```batch
 X:
