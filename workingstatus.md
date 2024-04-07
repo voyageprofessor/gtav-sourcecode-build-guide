@@ -1,11 +1,12 @@
 # Working Status
 
+## Compiling
 - [x] Can Compile Game
 - [x] Can Compile Tools
 - [x] Can Compile Game Scripts
 - [x] Can Compile Shaders
-<br>
 
+## Main
 - [x] Game
 - [x] Tools
   - [x] Rage Script Editor
