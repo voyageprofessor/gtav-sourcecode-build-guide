@@ -9,7 +9,7 @@
 **F:** If u didnt put the shaders to the game directory or you dont have the low quality shaders, then this error may appear.
 
 #### Solution 1: 
-Just Simply Put the shaders to the game directory and compile the low quality shaders if this error still appears by following tutorial.
+Just Simply Put the shaders to the game directory and compile the low quality shaders by following tutorial.
 
 #### Solution 2:
 Just make your shaders quality "High" and dont lower that.<br>
@@ -21,4 +21,4 @@ To do this, Follow this steps:
 4. Save the file and Done!
 
 **E:** Couldn't connect to RAG.exe. Keep trying?<br>
-**F:** Just Simply Open the RAG Manually, then start **launch.bat**
+**F:** Just Simply Open the RAG Manually, then start **launch.bat**.
