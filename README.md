@@ -4,6 +4,8 @@
 🖥️ **Working Status of Tools and Game:** [See Here](/workingstatus.md)<br>
 🔨 **Known Bugs and Errors:** [See Here](/knownbugs.md)
 
+⚠️ *If you having any problem, let us know in the "Issues" section of this repository!*
+
 ## Requirements
 ### Base
  - Minimum 150GB Free Space, 200GB is Recommended.
