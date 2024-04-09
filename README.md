@@ -4,17 +4,17 @@
 🖥️ **Working Status of Tools and Game:** [See Here](/workingstatus.md)<br>
 🔨 **Known Bugs and Errors:** [See Here](/knownbugs.md)
 
-⚠️ *If you having any problem, let us know in the "Issues" section of this repository!*
+⚠️ *If you having any problem, let us know in the ["Issues"](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/issues) section of this repository!*
 
 ## Requirements
 ### Base
- - Minimum 150GB Free Space, 200GB is Recommended.
- - GTA V Files from Steam, Epic Games or Rockstar Games Launcher
+ - Minimum 50 Free Space, 160GB is Recommended Because of the game files.
+ - GTA V Files from Steam, Epic Games or Rockstar Games Launcher.
  - GTAVSP.7z<br>
     - **Download Link: [All Available Download Links](/misc/links.md)**
-      - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`<br>
-      - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`<br>
-      - Archive password: `Mi76#b>9mRed`
+   - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`
+   - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`
+   - Archive password: `Mi76#b>9mRed`
  - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/3j5yAYzR#guzO1Yw80efLfmHIPdY8gcPFAHJn7ncF1voadjdpaLE)
 
 ### Dependencies
@@ -76,7 +76,7 @@ setx /m DXSDK_DIR "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
 setx /m RS_CODEBRANCH X:\gta5\src\dev_ng
 setx /m RS_PROJECT gta5
 ```
-12. To ensure changes are finalized, restart build machine.
+12. To ensure changes are finalized, restart build machine/computer.
 
 ## Patching The Source Code
 1. Open `rush_patches-master.zip`
