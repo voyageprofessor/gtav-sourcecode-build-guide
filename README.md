@@ -9,7 +9,7 @@
 ## Requirements
 ### Base
  - Minimum 50GB Free Space, 130GB+ is Recommended because of the game files.
- - Make Sure You Have GTA V Files from Steam, Epic Games or Rockstar Games Launcher Installed into Your Computer.
+ - GTA V Files from Steam, Epic Games or Rockstar Games Launcher
  - GTAVSP.7z<br>
     - **Download Link: [All Available Download Links](/misc/links.md)**
    - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`
