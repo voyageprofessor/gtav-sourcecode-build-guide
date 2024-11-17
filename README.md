@@ -308,11 +308,9 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 
 ##### RagScriptEditor crashing while at building cache.
 - This is well-known issue, You need to do everything again in VM, if you're already in a VM, Delete the Virtual Machine and start over.
-- Related Issues: [#46](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/issues/46)
 
 ##### RagScriptEditor Building Cache stuck at zero
 - Sometimes it can happen and i think it's an processor issue, try in single core, dual core or quad core if you have it.
-- Related Issues: [#15](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/issues/15)
 
 ### Gameplay
 
@@ -328,7 +326,6 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 
 #### How to hide the debug overlay? (weird texts on the screen)
 - CTRL + Tab to the Debug keyboard, and then tap Numpad 0(Insert) 2 times.
-- Related Discussions: [#21](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/discussions/21)
 
 #### How to Change the game window name "Fuzzy" to whatever name i want?
 - It's very easy to do, follow this steps:
