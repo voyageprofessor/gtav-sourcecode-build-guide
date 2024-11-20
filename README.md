@@ -2,7 +2,7 @@
 
 ![Icon](/other/design/icon/icon.png)
 
-<h1 align="left"> 📜 GTA V Source Code Build Guide </h1>
+<h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED & OFFICIAL] </h1>
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.<br>
 
