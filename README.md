@@ -30,8 +30,9 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.<
 9. [Working Status](#working-status)
    1. [Compiling](#compiling)
    2. [Main Working Status](#main-working-status)
-10. [QNA](#qna) 
-11. [Final Thoughts](#final-thoughts)
+11. [Setting up Visual Studio 2022 Patches](#setting-up-visual-studio-2022-patches)
+12. [QNA](#qna) 
+13. [Final Thoughts](#final-thoughts)
     1. [Credits](#credits) 
 
 
@@ -52,7 +53,7 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.<
 ### Dependencies
  - [Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012/en_visual_studio_ultimate_2012_x86_dvd_2262106.iso)
     - [Update 4 for Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012%20Update%204/mu_visual_studio_2012_update_4_x86_dvd_3161759.iso)
-    - You do not need to download these if you're gonna use **[Visual Studio 2022 Patches](#miscellaneous)**
+    - You still need to install this even if you're using **[Visual Studio 2022 Patches](#miscellaneous)**
  - (OPTIONAL) [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
     - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to download this
  - [DirectX SDK June 2010](https://download.microsoft.com/download/A/E/7/AE743F1F-632B-4809-87A9-AA1BB3458E31/DXSDK_Jun10.exe)
@@ -91,8 +92,7 @@ ___
    - **If you get error S1023, Uninstall `Visual C++ 2010 Redistributable` & Reinstall DirectX SDK - (June 2010).**
 2. Install 7-Zip
 3. Install Visual Studio 2012 and Update 4 for Visual Studio 2012
-   - Uncheck all optional components in the installer **except "Microsoft Foundation Classes for C++"** to save space due to none of them are needed for the build.
-   - **Reminder:** If you will use **[Visual Studio 2022 Patches](#miscellaneous)**, You do not need to download these.
+   - Uncheck all optional components in the installer **except "Microsoft Foundation Classes for C++"** to save space due to none of them are needed for the build
 4. (OPTIONAL) Install Visual Studio 2022
    - **Reminder:** If you're using **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to download this.
    - You should select **Desktop Development with C++** and **.NET Desktop development** and finally just select **Universal Windows Platform Development** from *Workloads* Tab
@@ -129,8 +129,7 @@ setx /m RS_PROJECT gta5
 4. Copy all folders in `dll_patches_x.zip` to `X:\gta5\tools_ng\bin`, make sure to overwrite when copying
 5. (OPTIONAL) Extract `Network Fix.zip` and put these 2 files to `x:\gta5\tools_ng\etc\globals`, make sure to overwrite when copying
 6. (OPTIONAL) Install 3rdParty Folder, Extract and Put the folder to `X:\`
-7. (OPTIONAL) Extract `VBlSfKBylNQplMIPLL.zip` and put everything to `X:\gta5\src\dev_ng`
-8. This is where **Git** comes in handy, Do this steps in order to apply the mixed patches
+7. This is where **Git** comes in handy, Do this steps in order to apply the mixed patches
    1. Extract and Put everything in `Mixed_Patches.zip` to `X:\gta5\src\dev_ng` Directory
    2. Launch `auto.bat` then wait until all the patches to applied
    3. Close the command prompt.
@@ -268,14 +267,16 @@ rag
   - [x] Map Viewer
   - [x] Shortcut Menu 
   - [x] Other Tools
-    - Note that Some Perforce login required tools will not work, they need some modifications and Perforce.
-      - Perforce Download Links:
-        1. Helix Core: https://www.perforce.com/downloads/helix-core-free-small-teams
-        2. Helix Visual Client: https://www.perforce.com/downloads/helix-visual-client-p4v
+    - Note that Some Perforce login required tools will not work unless someone figures how to fix it.
 
+# Setting up Visual Studio 2022 Patches
+After you compiled the game in VS2012, close your IDE and do these steps:
+1. (OPTIONAL) Extract `VBlSfKBylNQplMIPLL.zip` and put everything to `X:\gta5\src\dev_ng`
+2. Open Visual Studio 2022
+3. Change every project version ``Visual Studio 2012`` to ``Visual Studio 2022`` if they didnt come as VS2022
+4. Compile
 
 # Known Bugs and Errors
-
 #### When I create "Vehicles" Widgets, the game crashes.
 Before Opening The Save Game, just enter the game normally and dont load the save, create vehicle widgets then load the game.
 
@@ -338,6 +339,12 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 # Final Thoughts
 
 Thanks for reading my precious tutorial, if u liked it please consider starring or forking the repository.<br>
+
+Lately, we found PS4 SDK along with building guide and all that stuff.<br>
+If you ever need that, hmu on discord.<br>
+Also we grinding too hard for the XDK, we'll find it!!!
+
+
 
 ## Credits
 
