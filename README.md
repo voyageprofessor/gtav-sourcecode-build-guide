@@ -356,7 +356,7 @@ Also we grinding too hard for the XDK, we'll find it!!!
 
 - [@RockstarAdvancedGameEngine](https://github.com/RockstarAdvancedGameEngine)
    - OneDrive Link for Source Code
-   - Mirror Link for Art Asset Leak
+   - Mirror Link for Art Asset Leak, which is down right now 💀
 - Other Contributors / Supporters
    - Thanks to all of you guys!
   
