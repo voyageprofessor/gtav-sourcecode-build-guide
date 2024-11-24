@@ -1,4 +1,4 @@
-<!-- Made with ❤️ by Smashtika(@yungDoom) -->
+<!-- Made with ❤️ by stuart(@yungDoom) and voyageprofessor -->
 
 ![Icon](/other/design/icon/icon.png)
 
@@ -73,6 +73,7 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.<
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
  - (OPTIONAL) [Network Fix](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/15209424/Network.Fix.zip)
     - This will fix the Studio or IP related issues.
+- (VERY VERY OPTIONAL) [Art Asset Leak (LINK WILL BE HERE]()
 - [Mixed Patches](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/15320504/Mixed_Patches.zip)
 - (OPTIONAL) [Visual Studio 2022 Patches](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)  
 
@@ -350,10 +351,13 @@ Also we grinding too hard for the XDK, we'll find it!!!
 
 - [@GTA-Source-Helper](https://github.com/GTA-Source-Helper)
    - Network Fix
+   - Art Assets
+   - Helped a lot of stuff, THX!
+
 - [@RockstarAdvancedGameEngine](https://github.com/RockstarAdvancedGameEngine)
    - OneDrive Link for Source Code
    - Mirror Link for Art Asset Leak
 - Other Contributors / Supporters
    - Thanks to all of you guys!
   
-<!-- Made with ❤️ by Smashtika(@yungDoom) -->
+<!-- Made with ❤️ by stuart(@yungDoom) and voyageprofessor -->
