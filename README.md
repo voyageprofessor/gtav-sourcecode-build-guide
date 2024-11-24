@@ -6,9 +6,6 @@
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.
 
-Please note that the cracked versions of **Grand Theft Auto V** will not work,<br> 
-or it'll work depends on your luck and which cracked version you have.
-
 # Contents
 1. [Prerequisites](#prerequisites)
    1. [Base](#base)
