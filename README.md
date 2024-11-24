@@ -5,7 +5,7 @@
 <h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED & OFFICIAL] </h1>
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.<br>
-Please note that the cracked versions of **Grand Theft Auto V** will not work, or it'll work depends on your luck.
+Please note that the cracked versions of **Grand Theft Auto V** will not work, or it'll work depends on your luck and which cracked version you have.
 
 # Contents
 1. [Prerequisites](#prerequisites)
