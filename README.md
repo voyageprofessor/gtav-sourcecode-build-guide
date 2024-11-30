@@ -4,7 +4,7 @@
 
 <h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED] </h1>
 
-This tutorial will accompany you in compiling and setting up GTA 5 source code.
+This tutorial will accompany you in compiling and setting up GTA 5 source code.<br>
 Only official tutorial is this one, the other ones are forked after i got DMCA'ed.
 
 # Contents
