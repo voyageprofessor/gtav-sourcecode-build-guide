@@ -2,9 +2,10 @@
 
 ![Icon](/other/design/icon/icon.png)
 
-<h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED & OFFICIAL] </h1>
+<h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED] </h1>
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.
+Only official tutorial is this one, the other ones are forked after i got DMCA'ed.
 
 # Contents
 1. [Prerequisites](#prerequisites)
@@ -342,8 +343,8 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 Thanks for reading my precious tutorial, if u liked it please consider starring or forking the repository.<br>
 
 Lately, we found PS4 SDK along with building guide and all that stuff.<br>
-If you ever need that, hmu on discord.<br>
-Also we grinding too hard for the XDK, we'll find it!!!
+If you ever need them, hmu on discord.<br>
+Also we found XDK but never tried that.
 
 
 
