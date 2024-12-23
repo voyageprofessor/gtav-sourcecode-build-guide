@@ -69,12 +69,12 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
     - For Applying some patches.   
 
 ### Miscellaneous
- - [Rush Patches](https://github.com/voyageprofessor/gtav-sourcecode-build-guide/files/14641602/rush_patches-master.zip)
- - [DLL Patches](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/14965810/dll_patches_x.zip)
+ - [Rush Patches](/other/rush_patches-master.zip)
+ - [DLL Patches](/other/dll_patches_x.zip)
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
  - (OPTIONAL) [Network Fix](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/15209424/Network.Fix.zip)
     - This will fix the Studio or IP related issues
-- [Mixed Patches](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/15320504/Mixed_Patches.zip)
+- [Mixed Patches](/other/Mixed_Patches.zip)
 - (OPTIONAL) [Visual Studio 2022 Patches](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)  
 
 ### Prebuilt Files
