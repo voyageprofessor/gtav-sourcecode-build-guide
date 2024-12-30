@@ -72,8 +72,8 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
  - [Rush Patches](/other/rush_patches-master.zip)
  - [DLL Patches](/other/dll_patches_x.zip)
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
- - (OPTIONAL) [Network Fix](other/Network.Fix.zip)
-    - This will fix the Studio or IP related issues
+ - (OPTIONAL) [Network Fix](other/Network_Fix.zip)
+    - This should fix the Studio or IP related issues
 - [Mixed Patches](/other/Mixed_Patches.zip)
 - (OPTIONAL) [Visual Studio 2022 Patches](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)  
 
