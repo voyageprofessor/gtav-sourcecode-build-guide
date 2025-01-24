@@ -78,7 +78,7 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
 - (OPTIONAL) [Visual Studio 2022 Patches](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)  
 
 ### Prebuilt Files
- - [Shaders](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14649717/common.zip)
+ - [Shaders](https://mega.nz/file/7nBkxRgB#oAApxmHp25wlc2lP2U5VKvhZdiKjB9lS5nRma1gyR24)
  - [Scripts](https://drive.google.com/file/d/1AVMC_MBPpqKp0BIrOI-_lLq98QmwRn46/view) (Already included in *update.rpf and update2.rpf from GTA V build 2699*, Just for backup purposes)
 
 ___
