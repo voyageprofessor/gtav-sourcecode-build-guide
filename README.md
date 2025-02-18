@@ -31,7 +31,7 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
 9. [Working Status](#working-status)
    1. [Compiling](#compiling)
    2. [Main Working Status](#main-working-status)
-11. [Setting up Visual Studio 2022 Patches](#setting-up-visual-studio-2022-patches)
+11. [Setting up Visual Studio 2022 Patches](#setting-up-visual-studio-2022-patches-optional)
 12. [QNA](#qna) 
 13. [Final Thoughts](#final-thoughts)
     1. [Credits](#credits) 
