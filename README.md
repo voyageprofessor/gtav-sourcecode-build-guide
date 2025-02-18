@@ -56,7 +56,7 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
     - [Update 4 for Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012%20Update%204/mu_visual_studio_2012_update_4_x86_dvd_3161759.iso)
     - You still need to install this even if you're using **[Visual Studio 2022 Patches](#miscellaneous)**
  - (OPTIONAL) [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
-    - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to download this
+    - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to [download this](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)
  - [DirectX SDK June 2010](https://download.microsoft.com/download/A/E/7/AE743F1F-632B-4809-87A9-AA1BB3458E31/DXSDK_Jun10.exe)
  - (OPTIONAL) [3D Studio Max 2010 SDK](https://archive.org/details/sdk-3ds-max-2010)
  - [Incredibuild 4.0](https://xoreax-incredibuild.software.informer.com/4.0/)
@@ -270,9 +270,9 @@ rag
   - [x] Other Tools
     - Note that Some Perforce login required tools will not work unless someone figures how to fix it.
 
-# Setting up Visual Studio 2022 Patches
+# Setting up Visual Studio 2022 Patches (OPTIONAL)
 After you compiled the game in VS2012, close your IDE and do these steps:
-1. (OPTIONAL) Extract `VBlSfKBylNQplMIPLL.zip` and put everything to `X:\gta5\src\dev_ng`
+1. Extract `VBlSfKBylNQplMIPLL.zip` and put everything to `X:\gta5\src\dev_ng`
 2. Open Visual Studio 2022
 3. Change every project version ``Visual Studio 2012`` to ``Visual Studio 2022`` if they didnt come as VS2022
 4. Compile
