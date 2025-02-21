@@ -74,7 +74,6 @@ Only official tutorial is this one, the other ones are forked after i got DMCA'e
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
  - (OPTIONAL) [Network Fix](other/Network_Fix.zip)
     - This should fix the Studio or IP related issues
-- [Mixed Patches](/other/Mixed_Patches.zip)
 - (OPTIONAL) [Visual Studio 2022 Patches](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)  
 
 ### Prebuilt Files
@@ -130,10 +129,6 @@ setx /m RS_PROJECT gta5
 4. Copy all folders in `dll_patches_x.zip` to `X:\gta5\tools_ng\bin`, make sure to overwrite when copying
 5. (OPTIONAL) Extract `Network Fix.zip` and put these 2 files to `x:\gta5\tools_ng\etc\globals`, make sure to overwrite when copying
 6. (OPTIONAL) Install 3rdParty Folder, Extract and Put the folder to `X:\`
-7. This is where **Git** comes in handy, Do this steps in order to apply the mixed patches
-   1. Extract and Put everything in `Mixed_Patches.zip` to `X:\gta5\src\dev_ng` Directory
-   2. Launch `auto.bat` then wait until all the patches to applied
-   3. Close the command prompt.
 
 **By far, Your Folder Structure should look like this:**
 ```
