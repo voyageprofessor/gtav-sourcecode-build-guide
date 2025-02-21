@@ -1,4 +1,4 @@
-<!-- Made with ❤️ by stuart(@yungDoom) and voyageprofessor -->
+<!-- Made with ❤️ by stuart(@yungDoom) -->
 
 ![Icon](/other/design/icon/icon.png)
 
@@ -344,15 +344,15 @@ Also we found XDK but never tried that.
 
 ## Credits
 
-- [@GTA-Source-Helper](https://github.com/GTA-Source-Helper)
+- [@GTA-Source-Helper](https://github.com/GTA-Source-Helper) (his new account is [@Redsoupdev](https://github.com/Redsoupdev))
    - Network Fix
    - Art Assets
    - Helped a lot of stuff, THX!
 
 - [@RockstarAdvancedGameEngine](https://github.com/RockstarAdvancedGameEngine)
-   - OneDrive Link for Source Code
-   - Mirror Link for Art Asset Leak, which is down right now 💀
+   - OneDrive Link for Source Code, down
+   - Mirror Link for Art Asset Leak, which is also down right now 💀
 - Other Contributors / Supporters
    - Thanks to all of you guys!
   
-<!-- Made with ❤️ by stuart(@yungDoom) and voyageprofessor -->
+<!-- Made with ❤️ by stuart(@yungDoom) -->
