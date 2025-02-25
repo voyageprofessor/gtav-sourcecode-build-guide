@@ -333,14 +333,14 @@ Thanks for reading my precious tutorial, if u liked it please consider starring 
 
 ## Credits
 
-- [@GTA-Source-Helper aka. Anton](https://github.com/GTA-Source-Helper) (his new account is [@Redsoupdev](https://github.com/Redsoupdev))
+- [@Redsoupdev](https://github.com/Redsoupdev)
    - Network Fix
    - Art Assets
    - Helped a lot of stuff, THX!
 
 - [@Sorynx](https://github.com/Sorynx)
    - He gave me the bat file which sets up the environment variables
-   - Also been into a lot of projects about GTA V Source Code Modding
+   - Also hes been into a lot of projects about GTA V Source Code Modding
 
 - Other Contributors / Supporters
    - Thanks to all of you guys!
