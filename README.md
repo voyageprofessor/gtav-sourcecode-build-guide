@@ -4,9 +4,8 @@
 
 <h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED] </h1>
 
-This tutorial will accompany you in compiling and setting up GTA 5 source code.<br>
-Only official tutorial is this one, the other ones are forked after i got DMCA'ed.<br>
-Here is our Discord Server: https://discord.gg/cVXdAtVbbz
+This tutorial will guide you through compiling and setting up GTA 5 source code<br>
+Also this tutorial is made by yungDoom itself and it is the latest guide.
 
 # Contents
 1. [Prerequisites](#prerequisites)
