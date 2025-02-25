@@ -5,7 +5,8 @@
 <h1 align="left"> 📜 GTA V Source Code Build Guide [UPDATED] </h1>
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.<br>
-Only official tutorial is this one, the other ones are forked after i got DMCA'ed.
+Only official tutorial is this one, the other ones are forked after i got DMCA'ed.<br>
+Join our discord server to not miss the updates and get help: https://discord.gg/cVXdAtVbbz
 
 # Contents
 1. [Prerequisites](#prerequisites)
@@ -299,13 +300,8 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 
 ### Main Issues
 
-#### RagScriptEditor
-
-##### RagScriptEditor crashing while at building cache.
-- This is well-known issue, You need to do everything again in VM, if you're already in a VM, Delete the Virtual Machine and start over.
-
-##### RagScriptEditor Building Cache stuck at zero
-- Sometimes it can happen and i think it's an processor issue, try in single core, dual core or quad core if you have it.
+#### RagScriptEditor crashing while at building cache.
+- Try using [this .bat file made by Sorynx](https://mega.nz/file/qvZCGLTK#aM97XQa2UrmXrf7tdnTuiKGEqAf01IveiFrIU_IVjJk)
 
 ### Gameplay
 
@@ -336,22 +332,17 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 
 Thanks for reading my precious tutorial, if u liked it please consider starring or forking the repository.<br>
 
-Lately, we found PS4 SDK along with building guide and all that stuff.<br>
-If you ever need them, hmu on discord.<br>
-Also we found XDK but never tried that.
-
-
-
 ## Credits
 
-- [@GTA-Source-Helper](https://github.com/GTA-Source-Helper) (his new account is [@Redsoupdev](https://github.com/Redsoupdev))
+- [@GTA-Source-Helper aka. Anton](https://github.com/GTA-Source-Helper) (his new account is [@Redsoupdev](https://github.com/Redsoupdev))
    - Network Fix
    - Art Assets
    - Helped a lot of stuff, THX!
 
-- [@RockstarAdvancedGameEngine](https://github.com/RockstarAdvancedGameEngine)
-   - OneDrive Link for Source Code, down
-   - Mirror Link for Art Asset Leak, which is also down right now 💀
+- [@Sorynx](https://github.com/Sorynx)
+   - He gave me the bat file which sets up the environment variables
+   - Also been into a lot of projects about GTA V Source Code Modding
+
 - Other Contributors / Supporters
    - Thanks to all of you guys!
   
