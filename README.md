@@ -24,17 +24,10 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
    2. [Modifying the RPF Files](#modifying-the-rpf-files)
 6. [Running The Game](#running-the-game)
 7. [BankRelease & Debug Controls](#bankrelease--debug-controls)
-8. [Known Bugs and Errors](#known-bugs-and-errors)
-   1. [Known Issues](#known-issues)
-      1. [Main Issues](#main-issues)
-      2. [Gameplay](#gameplay)
-9. [Working Status](#working-status)
-   1. [Compiling](#compiling)
-   2. [Main Working Status](#main-working-status)
-11. [Setting up Visual Studio 2022 Patches](#setting-up-visual-studio-2022-patches-optional)
-12. [QNA](#qna) 
-13. [Final Thoughts](#final-thoughts)
-    1. [Credits](#credits) 
+8. [Known Issues](#known-issues)
+9. [Setting up Visual Studio 2022 Patches](#setting-up-visual-studio-2022-patches-optional)
+10. [Final Thoughts](#final-thoughts)
+11. [Credits](#credits) 
 
 
 ## Prerequisites
@@ -48,7 +41,6 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
    - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`
      - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`
  - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/72plXYpY#B9A3vDidqPUVhfXDP5hWCS8lc90lcdGZsGfjuWkBDe8)
- - Some Patience and Technical Competence.
 
 ### Dependencies
  - [Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012/en_visual_studio_ultimate_2012_x86_dvd_2262106.iso)
@@ -80,8 +72,7 @@ ___
 
 > [!NOTE]
 > It is recommended to create a virtual machine, Although the build process can be done on your Real PC too!<br>
-> in Windows, **VMWare, Hyper-V or VirtualBox** are recommended to run the Virtual Machine.<br>
-> in Linux, **virt-manager** are recommended to run the Virtual Machine.
+> in Windows, **VMWare** are recommended to run the Virtual Machine
 
 ## Prerequisites Setup
 1. Install DirectX SDK June 2010
@@ -124,7 +115,7 @@ setx RAGE_3RDPARTY X:\3rdParty\dev
 3. (OPTIONAL) To skip launcher requirement for running the game, copy `game` and `rage` folders from `rush_patches-master.zip\OPTIONAL_FIXES` to the same folder
 4. Copy all folders in `dll_patches_x.zip` to `X:\gta5\tools_ng\bin`, make sure to overwrite when copying
 5. (OPTIONAL) Extract `Network Fix.zip` and put these 2 files to `x:\gta5\tools_ng\etc\globals`, make sure to overwrite when copying
-6. (OPTIONAL) Install 3rdParty Folder, Extract and Put the folder to `X:\`
+6. (OPTIONAL) Install 3rdParty Folder, Extract and Put the folder to `X:\`.
 
 **By far, Your Folder Structure should look like this:**
 ```
@@ -202,11 +193,11 @@ ragScriptEditor
    - **Dont forget to backup your old files from update folder.**
 
 #### Modifying the RPF Files
-If you ever modify the RPF files, dont forget to encrpyt them.<br>
+If you ever modify the RPF files, dont forget to encrpyt them<br>
 **Here you can see how to do it:**
 1. From `rush_patches-master.zip`, copy all files in the `ARCHIVEFIX` folder to a separate location
 2. Drag RPF file(s) onto `ArchiveFix.exe`
-   - Don't drag the both files at the same time, **just drag one by one**.
+   - Don't drag the both files at the same time, **just drag one by one.**
 
 ## Running The Game
 1. Rename Original GTA Executable to `LGTA5.exe` and Rename your compiled executable to `GTA5.exe`
@@ -217,13 +208,15 @@ GTA5.exe -noSocialClub -nokeyboardhook -nonetlogs
 ```
 3. (OPTIONAL) Add additional arguments:
  - `-kbgame` - Start game with game keyboard enabled
- - `-output` - Show console log of game, the game opens a little bit slow.
+ - `-output` - Show console log of game, the game opens a little bit slow
  - `-rag` - Enable support for RAG, the internal game debugging tool
     - `-ragUseOwnWindow` - Use it with `-rag` parameter to make game run outside of RAG Render Window
     - **DO NOT** Forget to Launch RAG Before launching the game if u using any RAG parameters
  - `-DoReleaseStartup` - Start real Story Mode on launch, Ignore if it says unknown parameter/command
     - If you dont type this parameter, you will spawned in a random location as a random character with a random clothes
- - Additional standard game arguments can be added as well.
+ - `-sc_DisableForbiddenVehicleRemoval`
+   - This parameter allows DLC and Other Cars without getting removed
+ - Additional standard game arguments can be added as well
    - [Here is the almost all the arguments list](other/LAUNCHPARAMS_GTAV.txt) 
 4. (OPTIONAL) Launch RAG with the following commands in Command Prompt:
 ```batch
@@ -233,53 +226,29 @@ setenv
 cd ..\..\tools_ng\bin\rag
 rag
 ```
-5. Run `launch.bat`
+5. Run `launch.bat`.
 
 ## BankRelease & Debug Controls
 
 [Almost Every Controls & Keys](/other/controls)
-
-# Working Status
-
-#### Compiling
-- [x] Can Compile Game
-- [x] Can Compile Tools
-- [x] Can Compile Game Scripts
-- [x] Can Compile Shaders
-
-#### Main Working Status
-- [x] Game
-  - [ ] Script Hook V and ASI Loaders
-     - It doesn't work because memory offsets and certificate problems.
-- [x] Tools
-  - [x] RagScriptEditor
-  - [x] Rag
-    - [x] Rag UI
-    - [x] Rag Interface 
-  - [x] Map Viewer
-  - [x] Shortcut Menu 
-  - [x] Other Tools
-    - Note that Some Perforce login required tools will not work unless someone figures how to fix it.
 
 # Setting up Visual Studio 2022 Patches (OPTIONAL)
 After you compiled the game in VS2012, close your IDE and do these steps:
 1. Extract `VBlSfKBylNQplMIPLL.zip` and put everything to `X:\gta5\src\dev_ng`
 2. Open Visual Studio 2022
 3. Change every project version ``Visual Studio 2012`` to ``Visual Studio 2022`` if they didnt come as VS2022
-4. Compile
+4. Compile.
 
-# Known Bugs and Errors
-#### When I create "Vehicles" Widgets, the game crashes.
-Before Opening The Save Game, just enter the game normally and dont load the save, create vehicle widgets then load the game.
+# Known Issues
 
-#### Fatal Error: Unable to create default effect 'common:/shaders/im', cannot continue.
+### Fatal Error: Unable to create default effect 'common:/shaders/im', cannot continue.
 If u didn't put the shaders to the game directory or you dont have the low quality shaders, then this error may appear.<br>
 Just try these solutions in order to make the game work:
 
-###### Solution 1: 
+##### Solution 1: 
 Just Simply Put the shaders to the game directory and compile the low quality shaders by [following tutorial](#building-shaders).
 
-###### Solution 2:
+##### Solution 2:
 Just make your shaders quality "High" and dont lower that.<br>
 To do this, Follow this steps:
 
@@ -288,47 +257,18 @@ To do this, Follow this steps:
 3. Change  `<ShaderQuality value="0" />` To `<ShaderQuality value="1" />`
 4. Save the file and Done!
 
-#### Couldn't connect to RAG.exe. Keep trying?
+### Couldn't connect to RAG.exe. Keep trying?
 Just Simply Open the RAG Manually, then start **launch.bat**.
 
-## Known Issues
-
-### Main Issues
-
-#### RagScriptEditor crashing while at building cache.
+### RagScriptEditor crashing while at building cache.
 - Try using [this .bat file made by Sorynx](https://mega.nz/file/CrZhQRSZ#ZrVeovU79sFI_44ZtGnnO_0Z7vK4dwSWL1jAxGo6dtE)
 - Change your Windows Language to `English (United States)`
-
-### Gameplay
-
-#### Game crashes if you open "Keybinds" Menu in *BankRelease* or *Debug* Builds
-- It's because the game tries to load a missing debug keyboard layout file
-   - This can probably be fixed by just editing some lines in the source code.
-   
-#### When you load the Save, all of your money will be wiped to zero
-- There is a code that does this, i dont know which code but its because we are in BankRelease or Debug
-   - You can just use money hacks to bring your old money.
-
-## QNA
-
-#### How to hide the debug overlay? (weird texts on the screen)
-- CTRL + Tab to the Debug keyboard, and then tap Numpad 0(Insert) 2 times.
-
-#### How to Change the game window name "Fuzzy" to whatever name i want?
-- It's very easy to do, follow this steps:
-  1. Find this file: `X:\gta5\src\dev_ng\game\Core\app.cpp`
-  2. Go to Line 1020
-  3. The Line should look like this:
-  ```cpp
-  if(!CSystem::Init("Fuzzy"))
-  ```
-  4. Change the "Fuzzy" to whatever name you want!
 
 # Final Thoughts
 
 Thanks for reading my precious tutorial, if u liked it please consider starring or forking the repository.<br>
 
-## Credits
+# Credits
 
 - [@Redsoupdev](https://github.com/Redsoupdev)
    - Network Fix
