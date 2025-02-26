@@ -113,6 +113,7 @@ setx /m RS_TOOLSROOT X:\gta5\tools_ng
 setx /m DXSDK_DIR "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
 setx /m RS_CODEBRANCH X:\gta5\src\dev_ng
 setx /m RS_PROJECT gta5
+setx RAGE_3RDPARTY X:\3rdParty\dev
 ```
 11. Put all the game files to the `X:\gta5\titleupdate\dev_ng` directory (OPTIONAL)
 12. To ensure changes are finalized, restart build machine/computer.
