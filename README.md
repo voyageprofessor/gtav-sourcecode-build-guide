@@ -64,8 +64,6 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
     - For extracting the archives
  - [OpenIV](https://openiv.com/WebIV/guest.php?get=1)
     - For editing the game files
- - [Git](https://git-scm.com/)
-    - For Applying some patches.   
 
 ### Miscellaneous
  - [Rush Patches](/other/rush_patches-master.zip)
