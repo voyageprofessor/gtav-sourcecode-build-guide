@@ -301,6 +301,7 @@ Just Simply Open the RAG Manually, then start **launch.bat**.
 
 #### RagScriptEditor crashing while at building cache.
 - Try using [this .bat file made by Sorynx](https://mega.nz/file/CrZhQRSZ#ZrVeovU79sFI_44ZtGnnO_0Z7vK4dwSWL1jAxGo6dtE)
+- Change your Windows Language to `English (United States)`
 
 ### Gameplay
 
