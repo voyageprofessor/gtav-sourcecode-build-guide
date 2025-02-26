@@ -41,8 +41,7 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
 ### Base
  - Windows 10/11
     - [LTSC 2021](https://archive.org/download/Windows10EnterpriseLTSC202164Bit/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso) Recommended, but you can use Normal Windows 10/11 too
- - Latest Grand Theft Auto V Files from Steam, Epic Games or Rockstar Games Launcher
- - Minimum 65GB Free Space, 140GB+ is Recommended because of the game files and programs
+ - Copy of Grand Theft Auto V
  - GTAVSP.7z - Source Code<br>
     - **Download Link: [All Available Download Links](/source-code-links.md)**
     - Archive Password: `Mi76#b>9mRed`
@@ -54,7 +53,7 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
 ### Dependencies
  - [Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012/en_visual_studio_ultimate_2012_x86_dvd_2262106.iso)
     - [Update 4 for Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012%20Update%204/mu_visual_studio_2012_update_4_x86_dvd_3161759.iso)
-    - You still need to install this even if you're using **[Visual Studio 2022 Patches](#miscellaneous)**
+    - You still need to install these even if you're using **[Visual Studio 2022 Patches](#miscellaneous)**
  - (OPTIONAL) [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
     - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to [download this](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)
  - [DirectX SDK June 2010](https://download.microsoft.com/download/A/E/7/AE743F1F-632B-4809-87A9-AA1BB3458E31/DXSDK_Jun10.exe)
