@@ -119,7 +119,7 @@ setx /m DXSDK_DIR "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
 setx /m RS_CODEBRANCH X:\gta5\src\dev_ng
 setx /m RS_PROJECT gta5
 ```
-12. Put all the game files to the `X:\gta5\titleupdate\dev_ng` directory
+12. Put all the game files to the `X:\gta5\titleupdate\dev_ng` directory (OPTIONAL)
 13. To ensure changes are finalized, restart build machine/computer.
 
 ## Patching The Source Code
@@ -167,7 +167,7 @@ https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/assets/146978592/a07cf
 > [!WARNING]
 > Building shaders and game scripts can be skipped using the [prebuilt files above](#prebuilt-files)<br>
 > For Shaders, Extract `common.zip` and just put the `common` folder to the Game Directory<br>
-> For Scripts, Run OpenIV and put the `script.rpf` file to `\update2.rpf\x64\levels\gta5\script`<br>
+> For Scripts, Run OpenIV and put the `script.rpf` file to `update2.rpf\x64\levels\gta5\script`<br>
 > These steps are here to allow modding or for those who prefer to build from source as much as possible.
 
 ### Building Shaders
@@ -193,7 +193,7 @@ ragScriptEditor
 5. Run OpenIV, select "Windows" under "Grand Theft Auto V"
 6. Select the game folder and click "Continue"
 7. Open `<Game Directory>\update\update2.rpf\x64\levels\gta5\script`
-8. Delete `script.rpf`
+8. Delete or move `script.rpf`
 9. Click the "Edit mode" button, and copy `X:\gta5\titleupdate\dev_ng\x64\levels\gta5\script\script.rpf` to the OpenIV window.
 
 
