@@ -57,7 +57,6 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
  - (OPTIONAL) [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
     - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to [download this](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)
  - [DirectX SDK June 2010](https://download.microsoft.com/download/A/E/7/AE743F1F-632B-4809-87A9-AA1BB3458E31/DXSDK_Jun10.exe)
- - (OPTIONAL) [3D Studio Max 2010 SDK](https://archive.org/details/sdk-3ds-max-2010)
  - [Incredibuild 4.0](https://xoreax-incredibuild.software.informer.com/4.0/)
     - This is only needed for compiling Shaders and Game Scripts
  - [7-Zip](https://7-zip.org/a/7z2301-x64.exe)
