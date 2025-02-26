@@ -101,23 +101,22 @@ ___
       3. Paste the path and press Enter
    - Select to install "Incredibuild Agent", "Incredibuild Coordinator", and the extension for Visual Studio
 6. Install OpenIV
-7. (OPTIONAL) Install 3D Studio Max 2010 SDK
-8. Create X:\ Drive by following the steps at the bottom:
+7. Create X:\ Drive by following the steps at the bottom:
     1. Open Command Prompt
     2. Create a new folder called "GTA" to the Desktop or anywhere that you want
     3. Run `net use X: \\localhost\c$\<Path to working folder for build> /persistent:yes`
        - Example: `net use X: \\localhost\c$\Users\<username>\Desktop\GTA /persistent:yes`
-9. Create the folder `X:\gta5` and copy all folders from `GTAVSP.7z\GTA V Source` into it
-10. Right click the folder `X:\gta5`, select "Properties", uncheck "Read-only", click Apply then OK
-11. Open Command Prompt as Administrator and run the following commands, then close:
+8. Create the folder `X:\gta5` and copy all folders from `GTAVSP.7z\GTA V Source` into it
+9. Right click the folder `X:\gta5`, select "Properties", uncheck "Read-only", click Apply then OK
+10. Open Command Prompt as Administrator and run the following commands, then close:
 ```batch
 setx /m RS_TOOLSROOT X:\gta5\tools_ng
 setx /m DXSDK_DIR "C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)"
 setx /m RS_CODEBRANCH X:\gta5\src\dev_ng
 setx /m RS_PROJECT gta5
 ```
-12. Put all the game files to the `X:\gta5\titleupdate\dev_ng` directory (OPTIONAL)
-13. To ensure changes are finalized, restart build machine/computer.
+11. Put all the game files to the `X:\gta5\titleupdate\dev_ng` directory (OPTIONAL)
+12. To ensure changes are finalized, restart build machine/computer.
 
 ## Patching The Source Code
 1. Open `rush_patches-master.zip`
