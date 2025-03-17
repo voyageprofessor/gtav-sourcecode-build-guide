@@ -34,7 +34,7 @@ Also this tutorial is made by yungDoom itself and it is the latest guide.
 ### Base
  - Windows 10/11
     - [LTSC 2021](https://archive.org/download/Windows10EnterpriseLTSC202164Bit/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso) Recommended, but you can use Normal Windows 10/11 too
- - Copy of Grand Theft Auto V
+ - Copy of Grand Theft Auto V Legacy 
  - GTAVSP.7z - Source Code<br>
     - **Download Link: [All Available Download Links](/source-code-links.md)**
     - Archive Password: `Mi76#b>9mRed`
