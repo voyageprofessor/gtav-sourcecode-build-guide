@@ -7,6 +7,9 @@
 This tutorial will guide you through compiling and setting up GTA 5 source code<br>
 Also this tutorial is made by yungDoom itself and it is the latest guide.
 
+**NEW:** You can use this for the whole prepared source and the minimal and easy setup guide: <br>
+https://drive.google.com/file/d/1U6OFAsTVgs2Dil-KSnyuCc5QoYrte-iP/view?usp=drive_link
+
 # Contents
 1. [Prerequisites](#prerequisites)
    1. [Base](#base)
