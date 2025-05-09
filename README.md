@@ -46,8 +46,8 @@ https://drive.google.com/file/d/1U6OFAsTVgs2Dil-KSnyuCc5QoYrte-iP/view?usp=drive
  - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/72plXYpY#B9A3vDidqPUVhfXDP5hWCS8lc90lcdGZsGfjuWkBDe8)
 
 ### Dependencies
- - [Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012/en_visual_studio_ultimate_2012_x86_dvd_2262106.iso)
-    - [Update 4 for Visual Studio 2012](https://files.dog/MSDN/Visual%20Studio%202012%20Update%204/mu_visual_studio_2012_update_4_x86_dvd_3161759.iso)
+ - [Visual Studio 2012](https://drive.google.com/file/d/1XoA5Av_6OedTwGi_ebTb_XsQ7-RmEKSd/view?usp=sharing)
+    - [Update 5 for Visual Studio 2012](https://drive.google.com/file/d/1_rrwnITjCl-kcqEKTQWUDJgEegAcKAM6/view?usp=sharing)
     - You still need to install these even if you're using **[Visual Studio 2022 Patches](#miscellaneous)**
  - (OPTIONAL) [Visual Studio 2022](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
     - If you want to use **[Visual Studio 2022 Patches](#miscellaneous)**, You should need to [download this](https://github.com/user-attachments/files/17774182/VBlSfKBylNQplMIPLL.zip)
